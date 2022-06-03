@@ -1,0 +1,9 @@
+<map id="include/mlir/Dialect/Bufferization/Transforms/OneShotAnalysis.h" name="include/mlir/Dialect/Bufferization/Transforms/OneShotAnalysis.h">
+<area shape="rect" id="node2" href="$AllocTensorElimination_8h.html" title="include/mlir/Dialect\l/Bufferization/Transforms\l/AllocTensorElimination.h" alt="" coords="5,109,192,165"/>
+<area shape="rect" id="node3" href="$AllocTensorElimination_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/AllocTensorElimination.cpp" alt="" coords="25,213,303,255"/>
+<area shape="rect" id="node4" href="$Bufferization_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/Bufferize.cpp" alt="" coords="267,117,453,158"/>
+<area shape="rect" id="node5" href="$FuncBufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/FuncBufferizableOp\lInterfaceImpl.cpp" alt="" coords="477,109,704,165"/>
+<area shape="rect" id="node6" href="$OneShotAnalysis_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/OneShotAnalysis.cpp" alt="" coords="729,117,967,158"/>
+<area shape="rect" id="node7" href="$OneShotModuleBufferize_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/OneShotModuleBufferize.cpp" alt="" coords="991,117,1281,158"/>
+<area shape="rect" id="node8" href="$SCF_2Transforms_2BufferizableOpInterfaceImpl_8cpp.html" title="lib/Dialect/SCF/Transforms\l/BufferizableOpInterfaceImpl.cpp" alt="" coords="1305,117,1541,158"/>
+</map>

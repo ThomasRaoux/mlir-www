@@ -1,0 +1,23 @@
+<map id="lib/Transforms/Canonicalizer.cpp" name="lib/Transforms/Canonicalizer.cpp">
+<area shape="rect" id="node3" href="$include_2mlir_2Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="1842,177,1969,203"/>
+<area shape="rect" id="node40" href="$GreedyPatternRewriteDriver_8h.html" title="mlir/Transforms/GreedyPattern\lRewriteDriver.h" alt="" coords="1647,80,1868,121"/>
+<area shape="rect" id="node44" href="$Transforms_2Passes_8h.html" title="mlir/Transforms/Passes.h" alt="" coords="2236,87,2420,114"/>
+<area shape="rect" id="node4" href="$AnalysisManager_8h.html" title="mlir/Pass/AnalysisManager.h" alt="" coords="701,259,907,285"/>
+<area shape="rect" id="node29" href="$PassRegistry_8h.html" title="mlir/Pass/PassRegistry.h" alt="" coords="1629,259,1806,285"/>
+<area shape="rect" id="node31" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="2265,423,2469,449"/>
+<area shape="rect" id="node5" href="$IR_2Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="211,341,357,367"/>
+<area shape="rect" id="node15" href="$PassInstrumentation_8h.html" title="mlir/Pass/PassInstrumentation.h" alt="" coords="1166,341,1397,367"/>
+<area shape="rect" id="node16" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="1874,505,2025,531"/>
+<area shape="rect" id="node6" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="60,505,177,531"/>
+<area shape="rect" id="node7" href="$IR_2BuiltinAttributes_8h.html" title="mlir/IR/BuiltinAttributes.h" alt="" coords="461,505,648,531"/>
+<area shape="rect" id="node8" href="$IR_2Diagnostics_8h.html" title="mlir/IR/Diagnostics.h" alt="" coords="205,423,363,449"/>
+<area shape="rect" id="node10" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="660,423,855,449"/>
+<area shape="rect" id="node13" href="$IR_2Region_8h.html" title="mlir/IR/Region.h" alt="" coords="5,423,131,449"/>
+<area shape="rect" id="node20" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="1163,423,1325,449"/>
+<area shape="rect" id="node30" href="$PassOptions_8h.html" title="mlir/Pass/PassOptions.h" alt="" coords="1797,341,1973,367"/>
+<area shape="rect" id="node41" href="$FrozenRewritePatternSet_8h.html" title="mlir/Rewrite/FrozenRewrite\lPatternSet.h" alt="" coords="1523,169,1719,211"/>
+<area shape="rect" id="node42" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="1438,259,1605,285"/>
+<area shape="rect" id="node43" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="1473,341,1607,367"/>
+<area shape="rect" id="node45" href="$LocationSnapshot_8h.html" title="mlir/Transforms/Location\lSnapshot.h" alt="" coords="2621,333,2803,375"/>
+<area shape="rect" id="node46" href="$ViewOpGraph_8h.html" title="mlir/Transforms/ViewOpGraph.h" alt="" coords="1993,177,2223,203"/>
+</map>
